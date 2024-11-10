@@ -1,7 +1,17 @@
 *{
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
+
+body{
+  background: linear-gradient(red, orange yellow, black);
+}
+
+
+
+
+
 /* .App {
   text-align: center;
 }
